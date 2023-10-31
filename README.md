@@ -4,5 +4,3 @@
 
 
 
-
-![Screenshot 2023-10-31 at 20 47 30](https://github.com/KemalGunay/Witcher_Network_Analysis/assets/51904608/60cab907-1471-4216-bc77-6eacc8bd6a10)
